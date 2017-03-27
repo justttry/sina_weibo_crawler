@@ -9,7 +9,7 @@
 
 import logging
 from .toolkit.downloader import Downloader
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 class UserCrawler(object):
     """

@@ -4,7 +4,7 @@
 import os
 import time
 import math
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 import config
 from toolkit.downloader import Downloader, DownloadError

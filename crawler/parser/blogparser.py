@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 class BlogParser:
